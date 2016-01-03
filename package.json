@@ -1,7 +1,7 @@
 {
-  "name": "huy-tran React Webpack ES6",
+  "name": "wine-cart",
   "version": "1.0.0",
-  "description": "A basic environment for writing React apps in ES6 and built using webpack",
+  "description": "Simple shopping cart using React and Flux",
   "private": true,
   "scripts": {
     "webpack-server": "webpack-dev-server --hot --progress --colors",
@@ -11,7 +11,7 @@
   "keywords": [
     "react", "webpack", "es6", "es2015"
   ],
-  "author": "huy-tran",
+  "author": "Scotch.io Tutorial",
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
     "babel-core": "^6.3.26",
@@ -35,16 +35,15 @@
   "dependencies": {
     "flux": "^2.1.1",
     "react": "^0.14.5",
-    "react-dom": "^0.14.5",
-    "react-router-component": "^0.29.0"
+    "react-dom": "^0.14.5"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/huy-tran/React-ES6-Webpack-Boilerplate.git"
+    "url": "https://github.com/huy-tran/Wine-Cart.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/huy-tran/React-ES6-Webpack-Boilerplate/issues"
+    "url": "https://github.com/huy-tran/Wine-Cart.git/issues"
   },
-  "homepage": "https://github.com/huy-tran/React-ES6-Webpack-Boilerplate#readme"
+  "homepage": "https://github.com/huy-tran/Wine-Cart.git#readme"
 }
